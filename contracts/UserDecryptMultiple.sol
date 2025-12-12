@@ -8,7 +8,6 @@ import {ZamaEthereumConfig} from "@fhevm/solidity/config/ZamaConfig.sol";
  * @title UserDecryptMultiple
  * @notice User decrypt multiple values using EntropyOracle and FHE.allow
  * @dev Example demonstrating FHEVM user-decryption concepts
- * @chapter user-decryption
  */
 contract UserDecryptMultiple is ZamaEthereumConfig {
     // TODO: Add your contract implementation here
